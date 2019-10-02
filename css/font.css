@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?yhvel6');
+  src:  url('fonts/icomoon.eot?yhvel6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?yhvel6') format('truetype'),
+    url('fonts/icomoon.woff?yhvel6') format('woff'),
+    url('fonts/icomoon.svg?yhvel6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-left:before {
+  content: "\e900";
+}
+.icon-chevron-right:before {
+  content: "\e901";
+}
+.icon-chevron-thin-up:before {
+  content: "\e902";
+}
+.icon-install:before {
+  content: "\e903";
+}
+.icon-image:before {
+  content: "\e904";
+}
+.icon-star-outlined:before {
+  content: "\e905";
+}
+.icon-thumbs-down:before {
+  content: "\e906";
+}
+.icon-thumbs-up:before {
+  content: "\e907";
+}
+.icon-facebook:before {
+  content: "\e908";
+}
+.icon-instagram:before {
+  content: "\e909";
+}
+.icon-linkedin:before {
+  content: "\e90a";
+}
+.icon-gmail:before {
+  content: "\e90b";
+  color: #d14836;
+}
+.icon-openstreetmap:before {
+  content: "\e90d";
+  color: #7ebc6f;
+}
+.icon-whatsapp:before {
+  content: "\e90c";
+  color: #25d366;
+}

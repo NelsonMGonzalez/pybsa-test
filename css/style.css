@@ -72,10 +72,10 @@ transition: all 400ms;
     transition: all 400ms;
 }
 .fondo-texto:hover h1{
-    text-shadow: rgba(119, 38, 38, 0.9)0px 0px 20px;
+    text-shadow: rgba(252, 249, 249, 0.979)0px 0px 20px;
 }
 .menu-escritorio div:hover{
-    border-bottom-color: rgb(0, 0, 0);
+    border-bottom-color: rgb(255, 255, 255);
 }
 section{
     width: 100%;
